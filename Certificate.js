@@ -14,7 +14,7 @@ const Certificate =() =>{
       <p class="description">has successfully completed the course on Web Development with excellence and dedication.</p>
     </div>
     <div class="signature">
-    <img class="logsignature"  src={Signature} alt="Logo" />;
+    <img class="logsignature"  src={Signature} alt="Logo" />
       <p class="manager">Manager's Signature:</p>
       <p class="date">Date: May 3, 2024</p>
     </div>
